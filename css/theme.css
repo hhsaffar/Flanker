@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    margin: 0px;
+}
+
+#all{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.key-btn{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: xx-large;
+}
+
+#pattern{
+    font-size: 60px;
+    color: green;
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+    width:100%;
+    padding-top:150px;
+}
+
+#keys{
+    text-align: center;
+    padding-top: 200px; 
+}
+
+#counter{
+    color:gray;
+    float:right;
+    font-size: 40px;
+    width: 100%;
+    text-align: right;
+    padding-top:20px;
+}
+
+#result{
+    padding-top: 20px;
+    color:Orange;
+    width:100%;
+    text-align: center;
+}
